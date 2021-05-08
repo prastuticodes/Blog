@@ -1,0 +1,85 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+.travel{
+    border: 1px solid #c3c4f3;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+    
+}
+.travel img  {
+    
+  width: 100%;  
+    
+}
+.travel hr {
+  width:300px; 
+}
+.travel h5, .travel p {
+    margin-left: 20px;
+}
+
+.movie_header {
+    font-size: 20px;
+    padding: 6px 20px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+.movie_header i {
+    float: right;
+}
+.movie_text span {
+    color: #ffe751;
+}
+.environment1 {
+margin-top: 15px;    
+}
+.environmet1 h4 {
+    padding: 8px;
+    border-bottom: 1px solid #f9e070;
+}
+.environment1 img {
+    border-radius: 25px;
+}
+.environment1 p {
+margin-top: 15px;    
+}
+.book {
+    cursor: pointer;
+}
+#quote{
+    line-height: 10;
+}
+hr {
+    margin-bottom: 10px;
+}
+.modal-content {
+    margin-top: 100px;
+    
+}
+.img_modal {
+    display: inline-block;
+}
+.p_modal {
+    margin-top: 10px;
+}
+.modal-body {
+    text-align: center;
+}
